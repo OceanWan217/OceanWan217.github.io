@@ -9,8 +9,11 @@ main:
     url: /publications/
 
   - title: "Team member"
-    url: /Team member/    
-
+    url: /Teammember/    
+    
+ - title: "Team member2"
+    url: /Teammember2/  
+  
   - title: "Teaching"
     url: /teaching/    
     
