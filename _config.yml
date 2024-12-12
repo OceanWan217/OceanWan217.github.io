@@ -21,8 +21,8 @@ repository               : "OceanWan217/OceanWan217.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Ocean Wan" 
+  avatar           : "OceanWanphoto.jpg"
+  name             : "Ocean Wan万海洋" 
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dublin,Ireland"
