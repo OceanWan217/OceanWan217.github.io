@@ -350,3 +350,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+jobs:
+  build:
+   runs-on: ubuntu-22.04
