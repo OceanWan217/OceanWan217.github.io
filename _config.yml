@@ -351,6 +351,4 @@ compress_html:
   ignore:
     envs: development
 
-jobs:
-  build:
-   runs-on: ubuntu-22.04
+
