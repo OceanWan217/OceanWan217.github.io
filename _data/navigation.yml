@@ -11,7 +11,7 @@ main:
   - title: "Team member"
     url: /Teammember/    
     
- - title: "Team member2"
+  - title: "Team member2"
     url: /Teammember2/  
   
   - title: "Teaching"
